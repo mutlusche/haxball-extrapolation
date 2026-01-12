@@ -14,4 +14,4 @@ Sonra sağ üstten eklentiye tıklayınız ve 'extrapolation' adlı files teki k
 
 Sonra herhangi odaya girip komutu (örnek: /extrapolation 300) yazın chate, ve oyunun keyfini çıkarın!
 
-Eğer yapamayan olur ise bana discord üzerinden ulaşabilir kaansche#0001
+mutlu was here
